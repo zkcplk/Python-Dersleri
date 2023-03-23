@@ -1,8 +1,4 @@
 {
     "iller":["istanbul","ankara","izmir"],
-    "puanlar":[30,40,50],
-    "isimler":{
-        "id":1,
-        "isim":"zeki"
-    }
+    "puanlar":[30,40,50]
 }
