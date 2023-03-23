@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "isim":"zeki",
+        "yer":"istanbul"
+    },
+    {
+        "id":2,
+        "isim":"ali",
+        "yer":"ankara"
+    },
+    {
+        "id":3,
+        "isim":"mehmet",
+        "yer":"izmir"
+    }
+]
